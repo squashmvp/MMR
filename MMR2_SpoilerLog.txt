@@ -1,0 +1,872 @@
+Version:          1.14.0.16
+Settings:         {"StrayFairyMode":"Default","UpdateShopAppearance":true,"AddSongs":true,"SpeedupLabFish":true,"SmallKeyMode":"Default","BossKeyMode":"Default","UserLogicFileName":"","CloseCows":true,"ArrowCycling":true,"CritWiggleDisable":false,"DrawHash":true,"ElegySpeedup":true,"FastPush":true,"IceTrapQuirks":false,"UpdateWorldModels":true,"OcarinaUnderwater":false,"QuestItemStorage":true,"ContinuousDekuHopping":false,"ProgressiveUpgrades":false,"LogicMode":"Casual","EnabledTricks":[],"RandomizeDungeonEntrances":false,"RandomizeEnemies":false,"StartingItemMode":"Random","CustomItemListString":"1ffff-ffffff80-1c00000----ff-fe000000-7fffffff-ffffffff-ff019000-7ffffff-ffffffc3-7a60--fffffff-fe1f7c00-9ffcf-879ff83f-ffffffff-ffffffff-ffffffff-ffffffff-ffffffff-ffffffff-ffdfffff-ffffffff-ffffffff-fe007fff-ffffffff-ffffffff-ffffffff-ffffffff","CustomStartingItemListString":"--1","CustomJunkLocationsString":"--------------------------------","IceTraps":"None","IceTrapAppearance":"MajorItems","DamageMode":"Doom","DamageEffect":"Default","MovementMode":"Default","FloorType":"Default","NutandStickDrops":"Default","ClockSpeed":"Default","HideClock":false,"BlastMaskCooldown":"Default","EnableSunsSong":false,"AllowFierceDeityAnywhere":false,"ByoAmmo":false,"DeathMoonCrash":true,"ShortenCutsceneSettings":{"General":"BlastMaskThief, BoatArchery, FishermanGame, MilkBarPerformance, HungryGoron, TatlInterrupts, FasterBankText, EverythingElse","BossIntros":"Odolwa, Goht, Gyorg, Twinmold, Majora, Wart, IgosDuIkana, Gomess"},"QuickTextEnabled":true,"Character":"LinkMM","GossipHintStyle":"Default","FreeHints":false,"ClearHints":false,"PreventDowngrades":true,"UpdateChests":true,"FixEponaSword":true,"EnablePictoboxSubject":true,"SpeedupBeavers":true,"SpeedupDampe":true,"SpeedupDogRace":true,"SpeedupBank":true}
+Seed:             23975062
+
+ Location                                              Item
+
+ Misc
+Boss Blue Warp                                     -> Ocean Skulltula Spirit
+Starting Heart Container #1                        -> Piece of Heart
+Starting Heart Container #2                        -> Oath to Order**
+Starting Item                                      -> Light Arrow**
+Starting Shield                                    -> Adult Wallet
+Starting Song                                      -> Piece of Heart
+Starting Sword                                     -> Hookshot**
+
+ South Clock Town
+Clock Tower Entrance                               -> Blue Rupee
+Clock Town Scrub Trade                             -> Milk
+Postbox                                            -> Swamp Skulltula Spirit
+South Clock Town Final Day Chest                   -> Great Bay Stray Fairy
+South Clock Town Straw Roof Chest                  -> Zora Mask**
+
+ North Clock Town
+Bombers' Hide and Seek                             -> Green Rupee
+Clock Town Map Purchase                            -> Milk
+Deku Playground Any Day                            -> Green Rupee
+Deku Playground Three Days                         -> Green Rupee
+Keaton Quiz                                        -> Red Rupee
+North Clock Town Keaton Grass                      -> 10 Bombs
+North Clock Town Keaton Grass 2                    -> Piece of Heart
+North Clock Town Keaton Grass 3                    -> Large Magic Jar
+North Clock Town Keaton Grass 4                    -> Small Magic Jar
+North Clock Town Keaton Grass 5                    -> 30 Arrows
+North Clock Town Keaton Grass 6                    -> Small Magic Jar
+North Clock Town Keaton Grass 7                    -> Ice Arrow**
+North Clock Town Keaton Grass 8                    -> Red Rupee
+North Clock Town Keaton Grass 9                    -> Blue Rupee
+North Clock Town Tree                              -> Blue Rupee
+Old Lady                                           -> Green Rupee
+Town Great Fairy                                   -> Green Rupee
+Town Great Fairy Non-Human                         -> Large Magic Jar
+
+ East Clock Town
+Bombers' Hideout Chest                             -> Red Rupee
+East Clock Town Chest                              -> Powder Keg**
+East Clock Town Crate                              -> Piece of Heart
+Gorman                                             -> Piece of Heart
+Honey and Darling Any Day                          -> Purple Rupee
+Honey and Darling Three Days                       -> Purple Rupee
+Madame Aroma in Bar                                -> Elegy of Emptiness**
+Madame Aroma in Office                             -> Small Magic Jar
+Mayor                                              -> Goron Mask**
+Milk Bar Chateau                                   -> 10 Arrows
+Milk Bar Milk                                      -> Red Rupee
+Observatory Balloon Pot                            -> Silver Rupee
+Observatory Balloon Pot 2                          -> Mask of Truth
+Observatory Scarecrow Pot                          -> Ocean Skulltula Spirit
+Observatory Scarecrow Pot 2                        -> Ocean Skulltula Spirit
+Observatory Scarecrow Pot 3                        -> Small Magic Jar
+Postman's Freedom Reward                           -> Ocean Skulltula Spirit
+Town Archery #1                                    -> Small Magic Jar
+Town Archery #2                                    -> Large Magic Jar
+Treasure Chest Game Deku                           -> Blue Rupee
+Treasure Chest Game Goron                          -> Small Magic Jar
+Treasure Chest Game Human                          -> Milk
+Treasure Chest Game Zora                           -> 10 Deku Nuts
+
+ Stock Pot Inn
+Anju and Kafei                                     -> Blue Rupee
+Grandma Long Story                                 -> 10 Arrows
+Grandma Short Story                                -> 10 Deku Nuts
+Inn Guest Room Chest                               -> Bremen Mask
+Inn Reservation                                    -> Ocean Skulltula Spirit
+Inn Staff Room Chest                               -> 5 Bombs
+Midnight Meeting                                   -> Small Magic Jar
+Toilet Hand                                        -> Blue Rupee
+
+ West Clock Town
+All-Night Mask Purchase                            -> 10 Arrows
+Bank Reward #1                                     -> Empty Bottle**
+Bank Reward #2                                     -> Piece of Heart
+Bank Reward #3                                     -> Large Magic Jar
+Big Bomb Bag Purchase                              -> Piece of Heart
+Bomb Bag Purchase                                  -> Blue Rupee
+Bomb Shop 10 Bombchu                               -> Piece of Heart
+Bomb Shop 10 Bombs                                 -> Hero's Shield
+Curiosity Shop Blue Rupee                          -> Red Rupee
+Curiosity Shop Gold Rupee                          -> Red Rupee
+Curiosity Shop Purple Rupee                        -> Snowhead Stray Fairy
+Curiosity Shop Red Rupee                           -> Pendant of Memories
+Lottery                                            -> Piece of Heart
+Postman's Game                                     -> Small Magic Jar
+Rosa Sisters                                       -> Woodfall Stray Fairy
+Swordsman's School                                 -> Green Rupee
+Swordsman's School Pot                             -> Stone Tower Stray Fairy
+Swordsman's School Pot 2                           -> Woodfall Stray Fairy
+Swordsman's School Pot 3                           -> Stone Tower Stray Fairy
+Swordsman's School Pot 4                           -> 10 Arrows
+Swordsman's School Pot 5                           -> Chateau Romani
+Trading Post 10 Deku Nuts                          -> Green Potion
+Trading Post 30 Arrows                             -> Swamp Skulltula Spirit
+Trading Post 50 Arrows                             -> Blue Rupee
+Trading Post Deku Stick                            -> Small Magic Jar
+Trading Post Fairy                                 -> Ocean Skulltula Spirit
+Trading Post Green Potion                          -> Piece of Heart
+Trading Post Hero's Shield                         -> Ocean Skulltula Spirit
+Trading Post Red Potion                            -> Red Rupee
+
+ Laundry Pool
+Clock Town Stray Fairy                             -> Small Magic Jar
+Curiosity Shop Man #1                              -> 5 Bombs
+Curiosity Shop Man #2                              -> Woodfall Stray Fairy
+Guru Guru                                          -> Large Magic Jar
+Kafei                                              -> Silver Rupee
+Laundry Pool Crate                                 -> Small Magic Jar
+
+ Termina Field
+Astronomy Telescope                                -> Small Magic Jar
+Bio Baba Grotto                                    -> Large Magic Jar
+Bio Baba Grotto Hive                               -> Woodfall Map
+Business Scrub Purchase                            -> Red Rupee
+Dodongo Grotto                                     -> Milk
+Gossip Stones                                      -> Stone Mask
+Kamaro                                             -> Green Rupee
+Peahat Grotto                                      -> Snowhead Stray Fairy
+Takkuri                                            -> 30 Arrows
+Termina Field Grass Chest                          -> Map of Great Bay
+Termina Field Grass Grotto                         -> Small Magic Jar
+Termina Field Observatory Soft Soil                -> 10 Arrows
+Termina Field Pillar Grotto                        -> Small Magic Jar
+Termina Field Pillar Soft Soil                     -> Large Magic Jar
+Termina Field South Wall Soft Soil                 -> Deku Stick
+Termina Field Stump Chest                          -> Stone Tower Stray Fairy
+Termina Field Stump Soft Soil                      -> Large Magic Jar
+Termina Field Underwater Chest                     -> Extended Magic Power*
+Termina Grotto Cow #1                              -> Milk
+Termina Grotto Cow #2                              -> Swamp Skulltula Spirit
+
+ Road to Southern Swamp
+Path to Swamp Grotto                               -> Swamp Skulltula Spirit
+Path to Swamp Tree                                 -> Small Magic Jar
+Snowhead Map Purchase                              -> Small Magic Jar
+Swamp Archery #1                                   -> Small Magic Jar
+Swamp Archery #2                                   -> Purple Rupee
+Woodfall Map Purchase                              -> Large Magic Jar
+
+ Southern Swamp
+Boat Archery                                       -> 30 Arrows
+Cleared Swamp Owl Grass                            -> Fairy
+Cleared Swamp Potion Shop Pot                      -> 10 Arrows
+Cleared Swamp Potion Shop Pot 2                    -> 10 Arrows
+Kotake                                             -> Swamp Skulltula Spirit
+Kotake Mushroom Sale                               -> Large Magic Jar
+Koume                                              -> Room Key
+Mystery Woods Grotto                               -> Red Rupee
+Near Swamp Spider House Grotto                     -> Bombchu
+Pictograph Contest Good Photo                      -> Fierce Deity's Mask
+Pictograph Contest Standard Photo                  -> 5 Bombs
+Pictograph Contest Winner                          -> Snowhead Small Key
+Potion Shop Pot                                    -> Blue Rupee
+Potion Shop Pot 2                                  -> Piece of Heart
+Southern Swamp Owl Grass                           -> Great Bay Stray Fairy
+Swamp Music Statue                                 -> Small Magic Jar
+Swamp Near Frog Hive                               -> Stone Tower Stray Fairy
+Swamp Scrub Purchase                               -> 30 Arrows
+Swamp Scrub Trade                                  -> Piece of Heart
+Swamp Skulltula Gold Room Hive                     -> Small Magic Jar
+Swamp Skulltula Gold Room Near Ceiling             -> 5 Bombs
+Swamp Skulltula Gold Room Pillar                   -> Red Rupee
+Swamp Skulltula Gold Room Wall                     -> Heart Container
+Swamp Skulltula Main Room Jar                      -> Blue Rupee
+Swamp Skulltula Main Room Lower Left Soft Soil     -> Bomb Bag**
+Swamp Skulltula Main Room Lower Right Soft Soil    -> Deku Stick
+Swamp Skulltula Main Room Near Ceiling             -> Keaton Mask
+Swamp Skulltula Main Room Pillar                   -> Blue Rupee
+Swamp Skulltula Main Room Upper Pillar             -> Blue Rupee
+Swamp Skulltula Main Room Upper Soft Soil          -> Large Magic Jar
+Swamp Skulltula Main Room Water                    -> Large Magic Jar
+Swamp Skulltula Monument Room Crate 1              -> Large Magic Jar
+Swamp Skulltula Monument Room Crate 2              -> Moon's Tear
+Swamp Skulltula Monument Room Lower Wall           -> Green Rupee
+Swamp Skulltula Monument Room On Monument          -> Woodfall Stray Fairy
+Swamp Skulltula Monument Room Torch                -> Swamp Skulltula Spirit
+Swamp Skulltula Pot Room Behind Vines              -> Large Magic Jar
+Swamp Skulltula Pot Room Hive 1                    -> 10 Arrows
+Swamp Skulltula Pot Room Hive 2                    -> Woodfall Stray Fairy
+Swamp Skulltula Pot Room Jar                       -> Red Rupee
+Swamp Skulltula Pot Room Pot 1                     -> Map of Clock Town
+Swamp Skulltula Pot Room Pot 2                     -> Large Magic Jar
+Swamp Skulltula Pot Room Wall                      -> 10 Arrows
+Swamp Skulltula Tree Room Grass 1                  -> Stone Tower Compass
+Swamp Skulltula Tree Room Grass 2                  -> Stone Tower Stray Fairy
+Swamp Skulltula Tree Room Hive                     -> Woodfall Small Key
+Swamp Skulltula Tree Room Tree 1                   -> Blue Rupee
+Swamp Skulltula Tree Room Tree 2                   -> Don Gero's Mask
+Swamp Skulltula Tree Room Tree 3                   -> Green Rupee
+Swamp Spider House Gold Room Soft Soil             -> Song of Healing
+Swamp Spider House Reward                          -> Milk
+Swamp Spider House Rock Soft Soil                  -> Blue Rupee
+Swamp Tourist Center Roof                          -> Large Magic Jar
+Witch Shop Blue Potion                             -> Red Rupee
+Witch Shop Green Potion                            -> Deku Stick
+Witch Shop Red Potion                              -> Large Magic Jar
+
+ Deku Palace
+Bean Grotto                                        -> Large Magic Jar
+Bean Grotto Soft Soil                              -> Red Rupee
+Bean Man                                           -> Map of Stone Tower
+Butler                                             -> 5 Bombs
+Butler Race Dual Pot                               -> Small Magic Jar
+Deku Palace Pot                                    -> Swamp Skulltula Spirit
+Deku Palace Pot 2                                  -> Blue Rupee
+Deku Palace Soft Soil                              -> Silver Rupee
+Deku Palace West Garden                            -> Small Magic Jar
+Imprisoned Monkey                                  -> 10 Arrows
+
+ Woodfall
+Behind Woodfall Owl Chest                          -> 5 Bombs
+Entrance to Woodfall Chest                         -> Great Bay Map
+Woodfall Bridge Chest                              -> Spin Attack
+Woodfall Great Fairy                               -> Romani's Mask
+Woodfall Pot                                       -> Small Magic Jar
+Woodfall Pot 2                                     -> Green Rupee
+
+ Woodfall Temple
+Hero's Bow Chest                                   -> 30 Arrows
+Odolwa Heart Container                             -> Purple Rupee
+Woodfall Boss Key Chest                            -> Milk
+Woodfall Bridge Room Hive                          -> Blue Rupee
+Woodfall Compass Chest                             -> Green Rupee
+Woodfall Dark Room                                 -> Red Rupee
+Woodfall Deku Baba                                 -> Epona's Song**
+Woodfall Entrance Fairy                            -> Green Rupee
+Woodfall Entrance Platform                         -> Purple Rupee
+Woodfall Jar Fairy                                 -> 50 Arrows
+Woodfall Main Room Bubble                          -> Red Rupee
+Woodfall Main Room Switch                          -> Purple Rupee
+Woodfall Map Chest                                 -> Piece of Heart
+Woodfall Platform Room Hive                        -> Stone Tower Stray Fairy
+Woodfall Poison Water Bubble                       -> Bombers' Notebook
+Woodfall Pre-Boss Lower Right Bubble               -> Woodfall Stray Fairy
+Woodfall Pre-Boss Pillar Bubble                    -> Green Rupee
+Woodfall Pre-Boss Upper Left Bubble                -> Lens of Truth*
+Woodfall Pre-Boss Upper Right Bubble               -> Stone Tower Map
+Woodfall Skulltula                                 -> Small Magic Jar
+Woodfall Small Key Chest                           -> Red Rupee
+Woodfall Temple Entrance Hive                      -> 5 Bombs
+Woodfall Temple Gekko Room Pot                     -> Deku Stick
+Woodfall Temple Gekko Room Pot 2                   -> Blue Rupee
+Woodfall Temple Gekko Room Pot 3                   -> Small Magic Jar
+Woodfall Temple Gekko Room Pot 4                   -> Small Magic Jar
+
+ Mountain Village
+Darmani                                            -> 10 Arrows
+Frog Choir                                         -> Stone Tower Stray Fairy
+Goron Graveyard Snowball                           -> Stone Tower Small Key*
+Goron Graveyard Snowball 2                         -> 10 Arrows
+Hungry Goron                                       -> 10 Arrows
+Mountain Smithy Day 1                              -> Red Rupee
+Mountain Smithy Day 2                              -> Bunny Hood
+Mountain Spring Grotto                             -> Great Bay Boss Key**
+Mountain Village Day 1 Snowball                    -> 30 Arrows
+Mountain Village Day 2 Snowball                    -> 10 Arrows
+Mountain Village Day 2 Snowball 2                  -> Great Fairy's Mask
+Mountain Village Day 3 Snowball                    -> Swamp Skulltula Spirit
+Mountain Village Spring Keaton Grass               -> Piece of Heart
+Mountain Village Spring Keaton Grass 2             -> Red Rupee
+Mountain Village Spring Keaton Grass 3             -> Piece of Heart
+Mountain Village Spring Keaton Grass 4             -> Piece of Heart
+Mountain Village Spring Keaton Grass 5             -> Hero's Shield
+Mountain Village Spring Keaton Grass 6             -> Piece of Heart
+Mountain Village Spring Keaton Grass 7             -> Small Magic Jar
+Mountain Village Spring Keaton Grass 8             -> Silver Rupee
+Mountain Village Spring Keaton Grass 9             -> 10 Arrows
+Mountain Village Spring Snowball                   -> 10 Arrows
+Mountain Village Spring Snowball 2                 -> Green Rupee
+Mountain Village Spring Snowball 3                 -> Large Magic Jar
+Mountain Village Winter Small Snowball             -> Blue Rupee
+Mountain Village Winter Small Snowball 2           -> Razor Sword*
+Mountain Village Winter Small Snowball 3           -> Small Magic Jar
+Mountain Village Winter Small Snowball 4           -> Magic Power*
+Mountain Village Winter Small Snowball 5           -> Great Bay Stray Fairy
+Mountain Waterfall Chest                           -> Green Rupee
+Path to Mountain Village Small Snowball            -> Swamp Skulltula Spirit
+Path to Mountain Village Spring Snowball           -> Small Magic Jar
+Path to Mountain Village Spring Snowball 2         -> Small Magic Jar
+Path to Mountain Village Spring Snowball 3         -> Blue Rupee
+
+ Twin Islands
+Goron Race                                         -> Large Magic Jar
+Goron Racetrack Grotto                             -> Snowhead Stray Fairy
+Goron Racetrack Pot                                -> Large Magic Jar
+Goron Racetrack Pot 10                             -> Large Magic Jar
+Goron Racetrack Pot 11                             -> Garo's Mask*
+Goron Racetrack Pot 12                             -> Map of Romani Ranch
+Goron Racetrack Pot 13                             -> Snowhead Small Key
+Goron Racetrack Pot 14                             -> Blue Rupee
+Goron Racetrack Pot 15                             -> Blue Potion
+Goron Racetrack Pot 16                             -> 5 Bombs
+Goron Racetrack Pot 17                             -> Map of Snowhead
+Goron Racetrack Pot 18                             -> 30 Arrows
+Goron Racetrack Pot 19                             -> Snowhead Stray Fairy
+Goron Racetrack Pot 2                              -> Clock Town Stray Fairy
+Goron Racetrack Pot 20                             -> Seahorse
+Goron Racetrack Pot 21                             -> New Wave Bossa Nova**
+Goron Racetrack Pot 22                             -> 10 Bombs
+Goron Racetrack Pot 23                             -> Red Rupee
+Goron Racetrack Pot 24                             -> Green Rupee
+Goron Racetrack Pot 25                             -> Bombchu
+Goron Racetrack Pot 26                             -> Blue Rupee
+Goron Racetrack Pot 27                             -> Sonata of Awakening**
+Goron Racetrack Pot 28                             -> Large Magic Jar
+Goron Racetrack Pot 29                             -> Small Magic Jar
+Goron Racetrack Pot 3                              -> Stone Tower Boss Key**
+Goron Racetrack Pot 30                             -> Song of Storms
+Goron Racetrack Pot 4                              -> Blue Rupee
+Goron Racetrack Pot 5                              -> Red Rupee
+Goron Racetrack Pot 6                              -> 10 Deku Nuts
+Goron Racetrack Pot 7                              -> Ocean Skulltula Spirit
+Goron Racetrack Pot 8                              -> Heart Container
+Goron Racetrack Pot 9                              -> Small Magic Jar
+Hot Spring Water Grotto                            -> Red Rupee
+Twin Islands Cave Chest                            -> Swamp Skulltula Spirit
+Twin Islands Day 1 Snowball                        -> Blue Potion
+Twin Islands Day 1 Snowball 2                      -> Large Magic Jar
+Twin Islands Day 1 Snowball 3                      -> 10 Arrows
+Twin Islands Day 1 Snowball 4                      -> 10 Arrows
+Twin Islands Day 1 Snowball 5                      -> Large Magic Jar
+Twin Islands Day 2 Snowball                        -> Green Rupee
+Twin Islands Day 2 Snowball 2                      -> 10 Arrows
+Twin Islands Day 2 Snowball 3                      -> Large Quiver
+Twin Islands Day 2 Snowball 4                      -> Woodfall Boss Key**
+Twin Islands Day 3 Snowball                        -> Swamp Skulltula Spirit
+Twin Islands Day 3 Snowball 2                      -> Piece of Heart
+Twin Islands Day 3 Snowball 3                      -> Mountain Title Deed
+Twin Islands Day 3 Snowball 4                      -> Swamp Skulltula Spirit
+Twin Islands Day 3 Snowball 5                      -> Purple Rupee
+Twin Islands Ramp Snowball                         -> Blue Rupee
+Twin Islands Small Snowball                        -> Blue Rupee
+Twin Islands Small Snowball 2                      -> Swamp Skulltula Spirit
+Twin Islands Underwater Ramp Chest                 -> Blue Rupee
+
+ Goron Village
+Baby Goron                                         -> 10 Bombchu
+Biggest Bomb Bag Purchase                          -> 30 Arrows
+Goron Shop 10 Arrows                               -> Large Magic Jar
+Goron Shop 10 Bombs                                -> Blue Rupee
+Goron Shop Red Potion                              -> Woodfall Stray Fairy
+Goron Shrine Pot                                   -> Hero's Shield
+Goron Shrine Pot 10                                -> Deku Stick
+Goron Shrine Pot 11                                -> Great Bay Stray Fairy
+Goron Shrine Pot 2                                 -> Piece of Heart
+Goron Shrine Pot 3                                 -> Small Magic Jar
+Goron Shrine Pot 4                                 -> Bombchu
+Goron Shrine Pot 5                                 -> 5 Bombs
+Goron Shrine Pot 6                                 -> Woodfall Stray Fairy
+Goron Shrine Pot 7                                 -> Large Magic Jar
+Goron Shrine Pot 8                                 -> Blue Rupee
+Goron Shrine Pot 9                                 -> Blue Rupee
+Goron Village Large Snowball                       -> Blue Rupee
+Goron Village Large Snowball 2                     -> Blue Rupee
+Goron Village Large Snowball 3                     -> Small Magic Jar
+Goron Village Large Snowball 4                     -> Couple's Mask**
+Goron Village Large Snowball 5                     -> 30 Arrows
+Goron Village Large Snowball 6                     -> 30 Arrows
+Goron Village Ledge                                -> 10 Arrows
+Goron Village Small Snowball                       -> Large Magic Jar
+Goron Village Small Snowball 10                    -> Woodfall Stray Fairy
+Goron Village Small Snowball 2                     -> Blue Rupee
+Goron Village Small Snowball 3                     -> Swamp Skulltula Spirit
+Goron Village Small Snowball 4                     -> Piece of Heart
+Goron Village Small Snowball 5                     -> Small Magic Jar
+Goron Village Small Snowball 6                     -> Small Magic Jar
+Goron Village Small Snowball 7                     -> 10 Arrows
+Goron Village Small Snowball 8                     -> Blue Rupee
+Goron Village Small Snowball 9                     -> Piece of Heart
+Lens Cave Invisible Chest                          -> Great Bay Small Key*
+Lens Cave Rock Chest                               -> Snowhead Stray Fairy
+Lens of Truth Chest                                -> Magic Bean
+Mountain Scrub Trade                               -> Large Magic Jar
+Powder Keg Challenge                               -> Ocean Skulltula Spirit
+
+ Path to Snowhead
+Path to Snowhead Grotto                            -> Map of Woodfall
+Path to Snowhead Large Snowball                    -> Biggest Bomb Bag
+Path to Snowhead Large Snowball 2                  -> Red Rupee
+Path to Snowhead Large Snowball 3                  -> 10 Arrows
+Path to Snowhead Large Snowball 4                  -> Ocean Skulltula Spirit
+Path to Snowhead Pillar                            -> Postman's Hat
+Path to Snowhead Spring Snowball                   -> Red Potion
+Path to Snowhead Spring Snowball 2                 -> Green Rupee
+Path to Snowhead Spring Snowball 3                 -> Large Magic Jar
+Path to Snowhead Spring Snowball 4                 -> Great Bay Stray Fairy
+
+ Snowhead
+Snowhead Great Fairy                               -> Blue Rupee
+Snowhead Large Snowball                            -> Gold Rupee
+Snowhead Large Snowball 2                          -> Red Rupee
+Snowhead Large Snowball 3                          -> Kamaro's Mask
+Snowhead Large Snowball 4                          -> Woodfall Stray Fairy
+Snowhead Large Snowball 5                          -> Small Magic Jar
+Snowhead Large Snowball 6                          -> Large Magic Jar
+Snowhead Small Snowball                            -> 5 Bombs
+Snowhead Small Snowball 2                          -> Ocean Skulltula Spirit
+Snowhead Small Snowball 3                          -> Stone Tower Small Key*
+
+ Snowhead Temple
+Fire Arrow Chest                                   -> Snowhead Stray Fairy
+Goht Heart Container                               -> Large Magic Jar
+Snowhead Basement                                  -> Large Magic Jar
+Snowhead Block Room Chest                          -> Stone Tower Stray Fairy
+Snowhead Boss Key Chest                            -> Piece of Heart
+Snowhead Bridge Room Chest                         -> Ocean Skulltula Spirit
+Snowhead Bridge Room Ledge Bubble                  -> Purple Rupee
+Snowhead Bridge Room Pillar Bubble                 -> Heart Container
+Snowhead Ceiling Bubble                            -> Blue Rupee
+Snowhead Compass Chest                             -> 10 Deku Nuts
+Snowhead Crate                                     -> Red Rupee
+Snowhead Dinolfos 1                                -> Piece of Heart
+Snowhead Dinolfos 2                                -> Snowhead Stray Fairy
+Snowhead Ice Puzzle                                -> 10 Arrows
+Snowhead Icicle Room Chest                         -> Swamp Skulltula Spirit
+Snowhead Icicle Room Wall                          -> Snowhead Stray Fairy
+Snowhead Main Room Wall                            -> Large Magic Jar
+Snowhead Map Chest                                 -> Snowhead Small Key
+Snowhead Map Room Fairy                            -> Purple Rupee
+Snowhead Map Room Ledge                            -> Blue Rupee
+Snowhead Pillar Freezards                          -> Swamp Skulltula Spirit
+Snowhead Snow Room Bubble                          -> Large Magic Jar
+Snowhead Temple Elevator Room Crate                -> Deku Stick
+Snowhead Temple Elevator Room Crate 2              -> Mask of Scents
+Snowhead Temple Elevator Room Crate 3              -> 30 Arrows
+Snowhead Temple Elevator Room Crate 4              -> Swamp Skulltula Spirit
+Snowhead Temple Elevator Room Crate 5              -> 10 Arrows
+Snowhead Temple Icicle Room Snowball               -> Ocean Skulltula Spirit
+Snowhead Temple Icicle Room Snowball 2             -> Snowhead Stray Fairy
+Snowhead Temple Icicle Room Snowball 3             -> 10 Arrows
+Snowhead Temple Icicle Room Snowball 4             -> 10 Arrows
+Snowhead Temple Icicle Room Snowball 5             -> Red Rupee
+Snowhead Temple Safety Bridge Pot                  -> Red Rupee
+Snowhead Temple Safety Bridge Pot 2                -> Piece of Heart
+Snowhead Twin Block                                -> Red Rupee
+
+ Milk Road
+Gorman Bros Milk Purchase                          -> Red Rupee
+Gorman Bros Race                                   -> Small Magic Jar
+Great Bay Map Purchase                             -> Swamp Skulltula Spirit
+Milk Road Grass                                    -> Great Bay Stray Fairy
+Milk Road Grass 2                                  -> Red Rupee
+Milk Road Keaton Grass                             -> Swamp Skulltula Spirit
+Milk Road Keaton Grass 2                           -> Ocean Skulltula Spirit
+Milk Road Keaton Grass 3                           -> 10 Arrows
+Milk Road Keaton Grass 4                           -> Swamp Skulltula Spirit
+Milk Road Keaton Grass 5                           -> Crimson Rupee
+Milk Road Keaton Grass 6                           -> Purple Rupee
+Milk Road Keaton Grass 7                           -> Small Magic Jar
+Milk Road Keaton Grass 8                           -> 10 Arrows
+Milk Road Keaton Grass 9                           -> Bottle with Milk
+Romani Ranch Map Purchase                          -> Ocean Skulltula Spirit
+
+ Romani Ranch
+Aliens Defense                                     -> Blue Rupee
+Cremia                                             -> Blue Rupee
+Cucco Shack Crate                                  -> Green Rupee
+Cucco Shack Potted Plant                           -> Small Magic Jar
+Dog Race                                           -> Green Rupee
+Doggy Racetrack Pot                                -> Small Magic Jar
+Doggy Racetrack Pot 2                              -> Purple Rupee
+Doggy Racetrack Pot 3                              -> Small Magic Jar
+Doggy Racetrack Pot 4                              -> Small Magic Jar
+Doggy Racetrack Roof Chest                         -> Pictobox
+Doggy Racetrack Soft Soil                          -> Hero's Bow**
+Grog                                               -> Blue Rupee
+Ranch Cow #1                                       -> Milk
+Ranch Cow #2                                       -> 30 Arrows
+Ranch Cow #3                                       -> Great Bay Stray Fairy
+Ranch Crate                                        -> Green Rupee
+Ranch Day 1 Soil                                   -> Heart Container
+Ranch Day 2 or 3 Soil                              -> Green Rupee
+Romani's Game                                      -> Blue Rupee
+
+ Great Bay Coast
+Baby Zoras                                         -> Piece of Heart
+Fisherman Game                                     -> Green Rupee
+Fisherman Pictograph                               -> Stone Tower Stray Fairy
+Great Bay Coast Grotto                             -> Small Magic Jar
+Great Bay Coast Grotto Cow #1                      -> Swamp Skulltula Spirit
+Great Bay Coast Grotto Cow #2                      -> Green Rupee
+Great Bay Coast Ledge                              -> Stone Tower Stray Fairy
+Great Bay Coast Ledge Pot                          -> Large Magic Jar
+Great Bay Coast Ledge Pot 2                        -> Swamp Skulltula Spirit
+Great Bay Coast Ledge Pot 3                        -> 10 Arrows
+Great Bay Coast Pot                                -> Great Bay Stray Fairy
+Great Bay Coast Pot 2                              -> Red Potion
+Great Bay Coast Pot 3                              -> 30 Arrows
+Great Bay Coast Pot 4                              -> 30 Arrows
+Great Bay Coast Pot 5                              -> Woodfall Stray Fairy
+Great Bay Coast Pot 6                              -> Captain's Hat*
+Great Bay Coast Pot 7                              -> Red Rupee
+Great Bay Coast Soft Soil                          -> Small Magic Jar
+Lab Fish                                           -> Ocean Skulltula Spirit
+Mikau                                              -> Large Magic Jar
+Ocean Skulltula 2nd Room Behind Skull 1            -> Snowhead Stray Fairy
+Ocean Skulltula 2nd Room Behind Skull 2            -> Stone Tower Stray Fairy
+Ocean Skulltula 2nd Room Ceiling Edge              -> Ocean Skulltula Spirit
+Ocean Skulltula 2nd Room Ceiling Plank             -> Giant's Mask**
+Ocean Skulltula 2nd Room Jar                       -> 30 Arrows
+Ocean Skulltula 2nd Room Lower Pot                 -> Small Magic Jar
+Ocean Skulltula 2nd Room Upper Pot                 -> Blast Mask
+Ocean Skulltula 2nd Room Webbed Hole               -> Piece of Heart
+Ocean Skulltula 2nd Room Webbed Pot                -> Red Rupee
+Ocean Skulltula Colored Skulls Behind Picture      -> Small Magic Jar
+Ocean Skulltula Colored Skulls Ceiling Edge        -> Swamp Title Deed
+Ocean Skulltula Colored Skulls Chandelier 1        -> Stone Tower Small Key*
+Ocean Skulltula Colored Skulls Chandelier 2        -> Ocean Skulltula Spirit
+Ocean Skulltula Colored Skulls Chandelier 3        -> Swamp Skulltula Spirit
+Ocean Skulltula Colored Skulls Pot                 -> Empty Bottle
+Ocean Skulltula Entrance Left Wall                 -> Bombchu
+Ocean Skulltula Entrance Right Wall                -> Swamp Skulltula Spirit
+Ocean Skulltula Entrance Web                       -> Heart Container
+Ocean Skulltula Library Behind Bookcase 1          -> Small Magic Jar
+Ocean Skulltula Library Behind Bookcase 2          -> Green Rupee
+Ocean Skulltula Library Behind Picture             -> Red Rupee
+Ocean Skulltula Library Ceiling Edge               -> Large Magic Jar
+Ocean Skulltula Library Hole Behind Cabinet        -> Small Magic Jar
+Ocean Skulltula Library Hole Behind Picture        -> Snowhead Compass
+Ocean Skulltula Library On Corner Bookshelf        -> 5 Bombs
+Ocean Skulltula Storage Room Behind Boat           -> Great Bay Stray Fairy
+Ocean Skulltula Storage Room Behind Crate          -> Ocean Skulltula Spirit
+Ocean Skulltula Storage Room Ceiling Web           -> Bottle with Gold Dust
+Ocean Skulltula Storage Room Crate                 -> Piece of Heart
+Ocean Skulltula Storage Room Jar                   -> 5 Bombs
+Ocean Spider House Chest                           -> Snowhead Stray Fairy
+Ocean Spider House Day 1 Reward                    -> Small Magic Jar
+Ocean Spider House Day 2 Reward                    -> Small Magic Jar
+Ocean Spider House Day 3 Reward                    -> 5 Bombchu
+Oceanside Spider House Entrance Pot                -> Small Magic Jar
+Oceanside Spider House Entrance Pot 2              -> Blue Rupee
+Oceanside Spider House Entrance Pot 3              -> Small Magic Jar
+Oceanside Spider House Main Room Pot               -> Great Fairy's Sword*
+Oceanside Spider House Main Room Pot 2             -> Silver Rupee
+Oceanside Spider House Mask Room Pot               -> Purple Rupee
+Oceanside Spider House Mask Room Pot 2             -> Gibdo Mask*
+Oceanside Spider House Storage Room Pot            -> 30 Arrows
+Stone Tower Map Purchase                           -> Small Magic Jar
+
+ Zora Cape
+Beaver Race #1                                     -> Silver Rupee
+Beaver Race #2                                     -> Swamp Skulltula Spirit
+Ocean Great Fairy                                  -> Small Magic Jar
+Zora Cape Grotto                                   -> Green Rupee
+Zora Cape Jar Game                                 -> Small Magic Jar
+Zora Cape Ledge With Tree Chest                    -> Silver Rupee
+Zora Cape Ledge Without Tree Chest                 -> Piece of Heart
+Zora Cape Like-Like                                -> 5 Bombs
+Zora Cape Owl Pot                                  -> Piece of Heart
+Zora Cape Owl Pot 2                                -> Piece of Heart
+Zora Cape Owl Pot 3                                -> Green Rupee
+Zora Cape Underwater Chest                         -> Blue Rupee
+Zora Cape Waterfall Pot                            -> Small Magic Jar
+
+ Zora Hall
+Bad Pictograph of Lulu                             -> Blue Rupee
+Evan                                               -> Giant Wallet
+Good Pictograph of Lulu                            -> Double Defense
+Lulu's Room Ledge                                  -> Great Bay Stray Fairy
+Ocean Scrub Purchase                               -> Piece of Heart
+Ocean Scrub Trade                                  -> Song of Soaring
+Zora Hall Stage Lights                             -> 30 Arrows
+Zora Shop 10 Arrows                                -> Swamp Skulltula Spirit
+Zora Shop Hero's Shield                            -> Ocean Skulltula Spirit
+Zora Shop Red Potion                               -> Green Rupee
+
+ Pirates' Fortress Exterior
+Pirates' Fortress Exterior Corner Chest            -> Ocean Title Deed
+Pirates' Fortress Exterior Log Chest               -> Kafei's Mask**
+Pirates' Fortress Exterior Sand Chest              -> Blue Rupee
+
+ Pirates' Fortress Sewer
+Pirates' Fortress Cage                             -> Green Rupee
+Pirates' Fortress Cage Pot                         -> Piece of Heart
+Pirates' Fortress Cage Room Barrel                 -> Piece of Heart
+Pirates' Fortress Cage Room Barrel 2               -> All-Night Mask
+Pirates' Fortress Cage Room Barrel 3               -> Blue Rupee
+Pirates' Fortress Cage Room Barrel 4               -> Large Magic Jar
+Pirates' Fortress Cage Room Barrel 5               -> Ocean Skulltula Spirit
+Pirates' Fortress Cage Room Deep Chest             -> Large Magic Jar
+Pirates' Fortress Cage Room Shallow Chest          -> Small Magic Jar
+Pirates' Fortress Maze Chest                       -> Silver Rupee
+Pirates' Fortress Sewer Exit Barrel                -> 30 Arrows
+Pirates' Fortress Sewer Exit Barrel 2              -> Red Rupee
+Pirates' Fortress Sewer Exit Barrel 3              -> Goron Lullaby**
+Pirates' Fortress Sewer Exit Pot                   -> 10 Arrows
+Pirates' Fortress Sewer Exit Pot 2                 -> Letter to Mama**
+Pirates' Fortress Sewer Gate Pot                   -> Blue Rupee
+
+ Pirates' Fortress Interior
+Hookshot Chest                                     -> Ocean Skulltula Spirit
+Hookshot Room Pot                                  -> Great Bay Compass
+Hookshot Room Pot 2                                -> Magic Bean
+Pirates' Fortress Barrel Maze Egg Pot              -> Piece of Heart
+Pirates' Fortress Barrel Maze Egg Pot 2            -> Piece of Heart
+Pirates' Fortress Guarded Egg Pot                  -> Small Magic Jar
+Pirates' Fortress Interior Guard Room Chest        -> Red Rupee
+Pirates' Fortress Interior Lower Chest             -> Snowhead Map
+Pirates' Fortress Interior Tank Chest              -> Small Magic Jar
+Pirates' Fortress Interior Upper Chest             -> Red Rupee
+Pirates' Fortress Lone Guard Egg Pot               -> Silver Rupee
+
+ Pinnacle Rock
+Pinnacle Rock Lower Chest                          -> 10 Arrows
+Pinnacle Rock Pot                                  -> Swamp Skulltula Spirit
+Pinnacle Rock Pot 2                                -> Large Magic Jar
+Pinnacle Rock Pot 3                                -> Large Magic Jar
+Pinnacle Rock Pot 4                                -> Deku Stick
+Pinnacle Rock Upper Chest                          -> Milk
+Seahorses                                          -> Gold Rupee
+
+ Great Bay Temple
+Great Bay Bio Babas                                -> Red Rupee
+Great Bay Boss Key Chest                           -> Blue Rupee
+Great Bay Compass Chest                            -> 5 Bombs
+Great Bay Dexihands Jar                            -> Stone Tower Stray Fairy
+Great Bay Entrance Torches                         -> Magic Bean
+Great Bay Green Valve                              -> Red Rupee
+Great Bay Ledge Jar                                -> Piece of Heart
+Great Bay Map Chest                                -> Mirror Shield
+Great Bay Pre-Boss Room Bubble                     -> 30 Arrows
+Great Bay Pre-Boss Room Underwater Bubble          -> Small Magic Jar
+Great Bay Seesaw Room                              -> Blue Rupee
+Great Bay Skulltula                                -> Green Potion
+Great Bay Small Key Chest                          -> 10 Deku Nuts
+Great Bay Temple Green Pump Barrel                 -> Large Magic Jar
+Great Bay Temple Green Pump Barrel 2               -> Large Magic Jar
+Great Bay Temple Red Valve Barrel                  -> Stone Tower Stray Fairy
+Great Bay Temple Red Valve Barrel 2                -> Swamp Skulltula Spirit
+Great Bay Temple Red Valve Crate                   -> Large Magic Jar
+Great Bay Temple Seesaw Room Pot                   -> Ocean Skulltula Spirit
+Great Bay Underwater Barrel                        -> Kokiri Sword*
+Great Bay Water Control Room Underwater Bubble     -> Circus Leader's Mask
+Great Bay Waterwheel Room Lower                    -> 10 Deku Nuts
+Great Bay Waterwheel Room Upper                    -> Silver Rupee
+Great Bay Whirlpool Barrel                         -> Blue Rupee
+Great Bay Whirlpool Jar                            -> Green Rupee
+Gyorg Heart Container                              -> Woodfall Stray Fairy
+Ice Arrow Chest                                    -> Stone Tower Small Key*
+
+ Road to Ikana
+Invisible Soldier                                  -> Letter to Kafei
+Path to Ikana Grotto                               -> Small Magic Jar
+Path to Ikana Pillar Chest                         -> Ocean Skulltula Spirit
+
+ Ikana Graveyard
+Captain Keeta's Chest                              -> Deku Stick
+Dampe Digging                                      -> Piece of Heart
+Dampe's Basement Pot                               -> Purple Rupee
+Dampe's Basement Pot 2                             -> Small Magic Jar
+Dampe's Basement Pot 3                             -> 10 Arrows
+Dampe's Basement Pot 4                             -> Blue Rupee
+Dampe's Basement Pot 5                             -> Snowhead Stray Fairy
+Dampe's Basement Pot 6                             -> Piece of Heart
+Dampe's Basement Pot 7                             -> Ocean Skulltula Spirit
+Dampe's Basement Pot 8                             -> 30 Arrows
+Day 1 Grave Bats                                   -> Gilded Sword*
+Day 1 Grave Tablet                                 -> 5 Bombs
+Ikana Graveyard Day 2 Bats                         -> Great Bay Stray Fairy
+Ikana Graveyard Grass                              -> Bottle with Chateau Romani
+Ikana Graveyard Grass 2                            -> Red Rupee
+Ikana Graveyard Grass 3                            -> Ocean Skulltula Spirit
+Ikana Graveyard Grotto                             -> Red Rupee
+Iron Knuckle Chest                                 -> Red Rupee
+Night 1 Grave Pot                                  -> Red Rupee
+Night 1 Grave Pot 2                                -> Small Magic Jar
+Night 2 Grave Pot                                  -> 10 Arrows
+Night 2 Grave Pot 2                                -> Small Magic Jar
+
+ Ikana Canyon
+Canyon Scrub Purchase                              -> Great Bay Stray Fairy
+Canyon Scrub Trade                                 -> Piece of Heart
+Ikana Canyon Cleared Grass                         -> Large Magic Jar
+Ikana Canyon Cleared Grass 2                       -> 10 Arrows
+Ikana Canyon Cleared Grass 3                       -> Green Rupee
+Ikana Canyon Grass                                 -> Milk
+Ikana Canyon Grass 2                               -> Small Magic Jar
+Ikana Canyon Grass 3                               -> Deku Stick
+Ikana Canyon Ledge                                 -> Large Magic Jar
+Ikana Great Fairy                                  -> Bottle with Red Potion
+Pamela's Father                                    -> 5 Bombs
+Poe Hut                                            -> Blue Rupee
+Secret Shrine Grotto                               -> Ocean Skulltula Spirit
+
+ Beneath the Well
+Cow Beneath the Well                               -> Piece of Heart
+Mirror Shield Chest                                -> Red Rupee
+Well Left Path Chest                               -> Blue Rupee
+Well Left Path Pot                                 -> Ocean Skulltula Spirit
+Well Left Path Pot 2                               -> Large Magic Jar
+Well Left Path Pot 3                               -> Piece of Heart
+Well Left Path Pot 4                               -> 5 Bombs
+Well Left Path Pot 5                               -> Piece of Heart
+Well Right Path Chest                              -> Woodfall Stray Fairy
+
+ Ikana Castle
+Ikana Castle Courtyard Grass                       -> Great Bay Stray Fairy
+Ikana Castle Courtyard Grass 2                     -> Small Magic Jar
+Ikana Castle Courtyard Grass 3                     -> Piece of Heart
+Ikana Castle Courtyard Grass 4                     -> 10 Bombchu
+Ikana Castle Fire Ceiling Room Pot                 -> 10 Arrows
+Ikana Castle Hole Room Pot                         -> Large Magic Jar
+Ikana Castle Hole Room Pot 2                       -> Small Magic Jar
+Ikana Castle Left Staircase Pot                    -> 5 Bombs
+Ikana Castle Pillar                                -> Woodfall Compass
+Ikana King                                         -> 10 Arrows
+Ikana King Entry Pot                               -> Purple Rupee
+Ikana King Entry Pot 2                             -> Heart Container
+Ikana King Entry Pot 3                             -> Red Rupee
+Ikana King Pot                                     -> Small Magic Jar
+Ikana King Pot 2                                   -> Large Magic Jar
+Ikana King Pot 3                                   -> Green Rupee
+
+ Stone Tower
+Inverted Stone Tower Left Chest                    -> Big Bomb Bag
+Inverted Stone Tower Middle Chest                  -> Blue Rupee
+Inverted Stone Tower Pot                           -> Land Title Deed
+Inverted Stone Tower Pot 2                         -> Green Rupee
+Inverted Stone Tower Right Chest                   -> Great Bay Stray Fairy
+Stone Tower Lower Scarecrow Pot                    -> Ocean Skulltula Spirit
+Stone Tower Lower Scarecrow Pot 2                  -> Piece of Heart
+Stone Tower Lower Scarecrow Pot 3                  -> Piece of Heart
+Stone Tower Owl Pot                                -> Piece of Heart
+Stone Tower Owl Pot 2                              -> 10 Arrows
+Stone Tower Owl Pot 3                              -> Blue Rupee
+Stone Tower Soft Soil Lower                        -> Green Potion
+Stone Tower Soft Soil Upper                        -> Snowhead Stray Fairy
+Stone Tower Upper Scarecrow Pot                    -> Piece of Heart
+Stone Tower Upper Scarecrow Pot 2                  -> Snowhead Boss Key**
+Stone Tower Upper Scarecrow Pot 3                  -> Red Potion
+Stone Tower Upper Scarecrow Pot 4                  -> Large Magic Jar
+
+ Stone Tower Temple
+Giant's Mask Chest                                 -> Piece of Heart
+Light Arrow Chest                                  -> Piece of Heart
+Stone Tower Armos Room Chest                       -> 10 Arrows
+Stone Tower Basement Ledge                         -> Small Magic Jar
+Stone Tower Boss Key Chest                         -> Blue Rupee
+Stone Tower Boss Warp                              -> Small Magic Jar
+Stone Tower Bridge Crystal                         -> Blue Rupee
+Stone Tower Compass Chest                          -> Piece of Heart
+Stone Tower Death Armos                            -> Large Magic Jar
+Stone Tower Death Armos Maze Chest                 -> Deku Stick
+Stone Tower Eyegore                                -> Snowhead Stray Fairy
+Stone Tower Eyegore Room Chest                     -> Swamp Skulltula Spirit
+Stone Tower Lava Room Fire Ring                    -> 10 Arrows
+Stone Tower Lava Room Ledge                        -> Large Magic Jar
+Stone Tower Map Chest                              -> 30 Arrows
+Stone Tower Mirror Sun Block                       -> Large Magic Jar
+Stone Tower Mirror Sun Switch                      -> Blue Rupee
+Stone Tower Statue Eye                             -> 5 Bombchu
+Stone Tower Temple Mirror Room Crate               -> Small Magic Jar
+Stone Tower Temple Mirror Room Crate 2             -> Blue Rupee
+Stone Tower Thin Bridge                            -> Green Rupee
+Stone Tower Underwater                             -> Snowhead Stray Fairy
+Stone Tower Updraft Fire Ring                      -> Small Magic Jar
+Stone Tower Updraft Frozen Eye                     -> Blue Rupee
+Stone Tower Updraft Room Chest                     -> Green Rupee
+Stone Tower Wizzrobe                               -> Fire Arrow**
+Twinmold Heart Container                           -> Green Rupee
+
+ Secret Shrine
+Secret Shrine Dinolfos Chest                       -> Silver Rupee
+Secret Shrine Final Chest                          -> 10 Deku Nuts
+Secret Shrine Garo Master Chest                    -> 10 Bombchu
+Secret Shrine Soft Soil                            -> Largest Quiver
+Secret Shrine Underwater Pot                       -> Ocean Skulltula Spirit
+Secret Shrine Underwater Pot 2                     -> Gold Rupee
+Secret Shrine Underwater Pot 3                     -> Small Magic Jar
+Secret Shrine Underwater Pot 4                     -> Piece of Heart
+Secret Shrine Wart Chest                           -> Woodfall Stray Fairy
+Secret Shrine Wizzrobe Chest                       -> Red Potion
+
+ The Moon
+Clock Tower Rooftop Pot                            -> Purple Rupee
+Clock Tower Rooftop Pot 2                          -> Swamp Skulltula Spirit
+Clock Tower Rooftop Pot 3                          -> Stone Tower Stray Fairy
+Clock Tower Rooftop Pot 4                          -> 10 Arrows
+Deku Trial Bonus                                   -> Stone Tower Stray Fairy
+Goron Trial Bonus                                  -> Red Rupee
+Link Trial Bonus                                   -> Great Bay Stray Fairy
+Link Trial Garo Master Chest                       -> Small Magic Jar
+Link Trial Iron Knuckle Chest                      -> Woodfall Stray Fairy
+Link Trial Pot                                     -> Deku Stick
+Link Trial Pot 2                                   -> Large Magic Jar
+Link Trial Pot 3                                   -> Small Magic Jar
+Link Trial Pot 4                                   -> Large Magic Jar
+Majora Child                                       -> Piece of Heart
+Zora Trial Bonus                                   -> Large Magic Jar
+
+ Randomizing 74 song slots, with 203 available songs:
+mm-f-gotitem                                        -> mm-f-smallitem
+mm-f-chasefail                                      -> mm-f-soar
+mm-dekupalace                                       -> mm-gormanbros
+mm-goronrace                                        -> sm64-battlefield
+mm-f-giantsleave                                    -> mm-f-moonclear
+mm-f-soar                                           -> mm-f-goronwin
+mm-meeting                                          -> uc-dekutree
+mm-wrath                                            -> sf64-boss2
+mm-southernswamp                                    -> mm-dekupalace
+mm-aliens                                           -> mk64-ceremony
+mm-goroncity                                        -> mk64-tt
+mm-combat                                           -> mm-wagonride
+mm-kamaros-mask                                     -> mm-kamaros-mask
+mm-clocktower                                       -> botw-kass
+mm-snowheadtemple                                   -> pa-ikanacastle
+mm-clocktown3                                       -> mmr-theme
+mm-fairyfountain                                    -> uc-goronvillage
+mm-f-smallitem                                      -> oot-f-stone
+mm-horserace                                        -> sm64-mgr
+mm-f-clearshort                                     -> sm64-f-starget
+mm-swordschool                                      -> mm-laboratory
+mm-invertedstonetower                               -> oot-spirittemple
+mm-f-song                                           -> sm64-f-bowserclear
+mm-incarnation                                      -> oot-boss
+mm-romaniranch                                      -> mk64-lr
+mm-shop                                        LUCK -> mm-piratefortress
+mm-clocktown1                                       -> sf64-corneria
+mm-miniboss                                         -> mm-mask
+mm-laboratory                                       -> mm-reunion
+mm-greatbaytemple                                   -> mk64-bb
+mm-chase                                            -> sf64-bolse
+mm-f-bossdown                                       -> mm-f-dungeonclearshort
+mm-zorahall                                         -> sf64-starwolf
+mm-shootinggallery                                  -> oot-templeoftime
+mm-piratefortress                                   -> pm-field
+mm-woodfalltemple                                   -> sf64-sectory
+mm-mask                                             -> oot-ganon
+mm-minigame                                         -> mm-aliens
+mm-mysterywoods                                     -> mm-snowheadmountains
+mm-ikanacastle                                      -> oot-foresttemple
+mm-witches                                          -> oot-kokiriforest
+mm-c-titlescreen                                    -> oot-c-goddess
+mm-f-gameover                                       -> mm-f-chasefail
+mm-finalhours                                       -> mm-finalhours
+mm-ikanacanyon                                      -> mm-clocktown2
+mm-clocktown2                                       -> mk64-kd
+mm-f-meet                                           -> oot-f-timetravel
+mm-greatbaycoast                                    -> mm-ikanacanyon
+mm-fileselect                                       -> mm-sharp
+mm-boatcruise                                       -> mm-giants
+mm-house                                            -> mm-shootinggallery
+mm-pianopractice                                    -> mm-pianopractice
+mm-keaton                                           -> uc-zora
+mm-f-dungeonclearshort                              -> mm-f-bossdown
+mm-snowheadmountains                                -> mm-terminafield
+mm-observatory                                      -> sm64-fileselect
+mm-f-dungeonclearlong                               -> oot-f-opendot
+mm-kaepora                                          -> oot-navi
+mm-f-heart                                          -> sm64-f-solved
+mm-f-dungeonopen                                    -> mm-f-horsewin
+mm-gormanbros                                       -> uc-dekuforest
+mm-f-horsewin                                       -> mm-f-gotitem
+mm-musicbox                                         -> sm64-steps
+mm-f-moonclear                                      -> mm-f-dungeonclearlong
+mm-sharp                                            -> mm-swordschool
+mm-f-fail                                           -> mm-f-gameover
+mm-stonetower                                       -> mm-greatbaytemple
+mm-guruguru                                         -> mm-clocktower
+mm-milkbar                                          -> mm-horserace
+mm-f-mask                                           -> sm64-f-star
+mm-terminafield                                     -> mm-ikanacastle
+mm-boss                                             -> sm64-boss
+mm-caves                                            -> mm-woodfalltemple
+mm-f-goronwin                                       -> sm64-f-toad
